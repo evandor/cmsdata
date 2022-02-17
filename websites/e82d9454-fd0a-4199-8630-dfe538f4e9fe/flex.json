@@ -1,0 +1,32 @@
+{
+  "draft": {
+    "marginRightAuto": true,
+    "alignContent": "content-center",
+    "justifyContent": "none",
+    "maxWidthAppliedToHeader": true,
+    "marginLeft": "auto",
+    "noMaxWidth": false,
+    "padding": "md",
+    "marginLeftAuto": true,
+    "alignItems": "items-center",
+    "maxWidthAppliedToFooter": true,
+    "direction": "column",
+    "maxWidth": 992,
+    "marginRight": 0
+  },
+  "original": {
+    "marginLeft": "auto",
+    "maxWidthAppliedToFooter": true,
+    "maxWidthAppliedToHeader": true,
+    "justifyContent": "none",
+    "noMaxWidth": false,
+    "maxWidth": 992,
+    "direction": "column",
+    "marginRight": 0,
+    "padding": "md",
+    "alignItems": "items-center",
+    "marginRightAuto": true,
+    "alignContent": "content-center",
+    "marginLeftAuto": true
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "54a8395d-6fbb-4eb8-b9e5-c03089700568": {
+    "elements": [{
+      "elements": [],
+      "id": "b6915cca-f6f2-49ab-9653-7b1a120dd2b0",
+      "content": "new CmsRuler",
+      "element": null,
+      "type": "CmsRuler",
+      "attributes": {
+        "justifyContent": "none",
+        "width": 423,
+        "background-color": "secondary",
+        "setWidth": true
+      }
+    }, {
+      "element": null,
+      "attributes": {
+        "h": 2,
+        "background-color": "secondary"
+      },
+      "id": "3fb37bff-bf75-4ca6-a623-5fb27979e090",
+      "type": "CmsHeading",
+      "elements": [],
+      "content": "new CmsHeading..."
+    }, {
+      "content": "new CmsParagraph",
+      "id": "a1df4a9b-e3dc-4399-84c9-34a909004dc1",
+      "attributes": {},
+      "elements": [],
+      "element": null,
+      "type": "CmsParagraph"
+    }, {
+      "type": "CmsHeading",
+      "attributes": {
+        "h": 2
+      },
+      "elements": [],
+      "id": "9d939299-a315-46ef-8242-8d6d774c8a75",
+      "element": null,
+      "content": "new CmsHeading"
+    }, {
+      "elements": [{
+        "id": "419a8fcb-d449-4b77-8d97-2f88d7526ae4",
+        "attributes": {
+          "col": "4"
+        },
+        "type": "CmsDroptarget",
+        "content": "",
+        "elements": [],
+        "element": null
+      }, {
+        "id": "6d3427b5-38bc-4aad-80c4-584c4bcb72a8",
+        "attributes": {
+          "col": "4"
+        },
+        "type": "CmsDroptarget",
+        "content": "",
+        "elements": [],
+        "element": null
+      }, {
+        "attributes": {
+          "col": "4"
+        },
+        "content": "",
+        "id": "1ff57113-8dfc-485b-80d3-84e8236f3435",
+        "type": "CmsDroptarget",
+        "elements": [],
+        "element": null
+      }],
+      "element": null,
+      "content": "new CmsColumns",
+      "id": "ef1fc0b0-3a99-4b97-b2bf-049d7663e754",
+      "type": "CmsColumns",
+      "attributes": {}
+    }, {
+      "attributes": {},
+      "type": "CmsColumns",
+      "id": "15f0bbc5-a6f9-46f5-901d-6fed8b45821e",
+      "element": null,
+      "elements": [{
+        "id": "607a43a4-631b-4afd-af2b-cb76e395bb88",
+        "elements": [],
+        "content": "",
+        "attributes": {},
+        "type": "CmsDroptarget",
+        "element": null
+      }, {
+        "content": "",
+        "element": null,
+        "id": "1a344bbd-d242-465d-8668-77a86aad53a6",
+        "type": "CmsDroptarget",
+        "elements": [],
+        "attributes": {}
+      }, {
+        "type": "CmsDroptarget",
+        "id": "1fd5e441-d89e-48e4-8224-9d0c420b2f6e",
+        "elements": [],
+        "content": "",
+        "element": null,
+        "attributes": {}
+      }],
+      "content": "new CmsColumns"
+    }],
+    "name": "test",
+    "published": 1645079646834,
+    "version": 19,
+    "dirty": false,
+    "created": 1644821469383,
+    "changed": 1645091429747,
+    "id": "54a8395d-6fbb-4eb8-b9e5-c03089700568"
+  },
+  "d1eb19bc-52b1-4cdb-8d77-0d0d8b542a3d": {
+    "id": "d1eb19bc-52b1-4cdb-8d77-0d0d8b542a3d",
+    "version": 384,
+    "dirty": false,
+    "created": 1640691467083,
+    "elements": [{
+      "type": "CmsHeading",
+      "attributes": {
+        "h": 2,
+        "padding": "xl"
+      },
+      "content": "Skysail",
+      "id": "bff1baac-829c-438e-8326-b9959d4a0321"
+    }, {
+      "elements": [],
+      "id": "909a3030-663d-49e7-a364-79361048c825",
+      "type": "CmsHeading",
+      "attributes": {
+        "h": 4,
+        "align": "text-center"
+      },
+      "element": null,
+      "content": "We are an <font style=\"color:#5d33f3\">IT consulting</font> firm<br> providing professional services from<br> project initiation to completion"
+    }, {
+      "element": null,
+      "type": "CmsParagraph",
+      "id": "07f804c5-4e4b-43a3-a212-f8022db9d6a3",
+      "content": "new CmsParagraph",
+      "elements": [],
+      "attributes": {}
+    }, {
+      "element": null,
+      "content": "new img",
+      "id": "e2a99824-1641-4095-9f47-ff844f6e8a56",
+      "attributes": {},
+      "elements": [],
+      "type": "img"
+    }, {
+      "type": "CmsHeading",
+      "content": "Our Services",
+      "id": "61652410-587d-4f64-914c-74127ad1076e",
+      "attributes": {
+        "padding": null,
+        "h": 3,
+        "background-color": "secondary"
+      },
+      "element": null,
+      "elements": []
+    }, {
+      "element": null,
+      "content": "new CmsRuler",
+      "attributes": {
+        "widthUnit": "px",
+        "width": 291,
+        "background-color": "primary",
+        "setWidth": true,
+        "align": "text-center"
+      },
+      "type": "CmsRuler",
+      "id": "138432fe-2a06-4a6d-944c-42d1ea3b63d2",
+      "elements": []
+    }, {
+      "element": null,
+      "type": "CmsHeading",
+      "attributes": {
+        "h": 2
+      },
+      "elements": [],
+      "content": "a Heading",
+      "id": "eaf6bda6-4be8-4123-9b5a-6fa230ce0ac2"
+    }, {
+      "type": "CmsColumns",
+      "attributes": {},
+      "content": "new CmsColumns",
+      "id": "2851f0fc-2b8d-49b1-bd5e-77d75fa566e9",
+      "element": null,
+      "elements": [{
+        "id": "b4817aee-17cc-4525-b872-52656386b68c",
+        "content": "new CmsSection",
+        "elements": [{
+          "id": "595ffcc4-3d9f-4a8b-8820-77b69fe414f1",
+          "content": "new CmsImg",
+          "element": null,
+          "type": "CmsImg",
+          "attributes": {
+            "src": "https://firebasestorage.googleapis.com/v0/b/quasarcms-dev.appspot.com/o/1df2097d-191b-4ca5-82e4-64cdd79fd002.png.thumb.png?alt=media&token=ee0215c1-e030-4827-8a6c-7beabfdcbdbb",
+            "imgId": "1df2097d-191b-4ca5-82e4-64cdd79fd002",
+            "setHeight": true,
+            "setWidth": true,
+            "width": 280,
+            "height": 280
+          },
+          "elements": []
+        }, {
+          "content": "new CmsHeading",
+          "elements": [],
+          "id": "27c244fa-4a3f-49e1-b1b5-77cdf16a2cf8",
+          "element": null,
+          "type": "CmsHeading",
+          "attributes": {
+            "h": 2
+          }
+        }, {
+          "element": null,
+          "attributes": {},
+          "id": "4beea6fa-229c-4c24-9ed6-12408d8934cb",
+          "elements": [],
+          "type": "CmsParagraph",
+          "content": "<span style=\"color: rgb(165, 165, 165); font-family: &quot;Gothic A1&quot;, serif; font-size: 15px;\">We work with your key stakeholders and executives, capture and refine the requirements for your project and translate them into something the development team can work with.</span>"
+        }],
+        "element": null,
+        "attributes": {},
+        "type": "CmsSection"
+      }, {
+        "content": "new CmsSection",
+        "attributes": {
+          "col": "2"
+        },
+        "id": "1881074f-53e3-4260-b4a8-7e1c059d6c83",
+        "element": null,
+        "elements": [{
+          "id": "a3cad25f-9108-4c3d-894f-b2fa0be74cab",
+          "attributes": {
+            "text": "body1"
+          },
+          "type": "CmsText",
+          "element": null,
+          "content": "",
+          "elements": []
+        }],
+        "type": "CmsSection"
+      }, {
+        "content": "new CmsSection",
+        "elements": [{
+          "content": "new CmsImg",
+          "element": null,
+          "attributes": {
+            "width": 280,
+            "height": 280,
+            "setHeight": true,
+            "src": "https://firebasestorage.googleapis.com/v0/b/quasarcms-dev.appspot.com/o/576be1ab-7f75-464a-a42d-6b5101253127.png.thumb.png?alt=media&token=02b0637e-c796-4525-8584-646636c68f8d",
+            "setWidth": true,
+            "imgId": "576be1ab-7f75-464a-a42d-6b5101253127"
+          },
+          "type": "CmsImg",
+          "elements": [],
+          "id": "c93dc2fc-06e1-4d85-a50a-a438f6a5dbdd"
+        }, {
+          "content": "Full Stack Development",
+          "id": "fa91ed12-6be1-4bc3-9c52-4f33a15bae02",
+          "element": null,
+          "attributes": {
+            "h": 2
+          },
+          "type": "CmsHeading",
+          "elements": []
+        }, {
+          "element": null,
+          "id": "26829c67-c121-402e-9e8a-ba4e6adf650e",
+          "content": "With expertise available in the full JAVA stack we design and develop high-quality enterprise software applying principles like TDD, Clean Code and Continuous Delivery.",
+          "attributes": {},
+          "type": "CmsParagraph",
+          "elements": []
+        }],
+        "id": "539c880e-ea72-488d-8cdb-538bcb4f3138",
+        "attributes": {
+          "col": "5"
+        },
+        "type": "CmsSection",
+        "element": null
+      }]
+    }, {
+      "element": null,
+      "elements": [],
+      "id": "ce31c31a-f327-42a6-b63e-740647e7cefb",
+      "content": "new CmsParagraph",
+      "attributes": {},
+      "type": "CmsParagraph"
+    }, {
+      "attributes": {
+        "h": 3,
+        "padding": "md"
+      },
+      "id": "cb8c18d6-6287-4323-9a2c-e9932c512643",
+      "elements": [],
+      "element": null,
+      "type": "CmsHeading",
+      "content": "Behind the Scene"
+    }, {
+      "elements": [{
+        "content": "",
+        "id": "15697051-2fef-43f9-b8ba-d80d81d8a900",
+        "attributes": {
+          "col": "4"
+        },
+        "element": null,
+        "elements": [],
+        "type": "CmsDroptarget"
+      }, {
+        "element": null,
+        "attributes": {
+          "col": "4"
+        },
+        "type": "CmsDroptarget",
+        "content": "",
+        "id": "5efb2223-fb92-42d8-9131-3c23305b84c7",
+        "elements": []
+      }, {
+        "elements": [],
+        "attributes": {
+          "col": "4"
+        },
+        "content": "",
+        "type": "CmsDroptarget",
+        "id": "a14853e0-552e-4a27-b5d9-bfd5e15ab435",
+        "element": null
+      }],
+      "element": null,
+      "attributes": {},
+      "type": "CmsColumns",
+      "id": "274f7e24-7ebb-4178-8d35-f606d8a8d1e9",
+      "content": "new CmsColumns"
+    }, {
+      "elements": [],
+      "type": "CmsHeading",
+      "attributes": {
+        "h": 2
+      },
+      "content": "new CmsHeading",
+      "element": null,
+      "id": "bc3095a9-6eb1-416d-a662-d17da00817b5"
+    }, {
+      "elements": [],
+      "id": "2f02caac-8aec-432d-92e4-976fce481159",
+      "attributes": {
+        "h": 2
+      },
+      "content": "new CmsHeading",
+      "element": null,
+      "type": "CmsHeading"
+    }],
+    "published": 1645080510088,
+    "name": "index",
+    "changed": 1645083423809
+  }
+}
