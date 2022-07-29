@@ -1,1 +1,462 @@
-{"name":"Headings Testcases","changed":1657605946964,"created":1657605946964,"livesite":null,"exportVersion":1,"exported":1659073788549,"nav":{},"pages":{"undefined":{"created":1658424018918,"version":1,"name":"test"},"e2a94510-ac79-4d6b-a169-971d43d3500c":{"elements":[{"attributes":{"h":"text-h2"},"id":"571f1907-0146-4bd9-9c12-af935e91f540","content":"Headings Testcases","type":"CmsHeading"},{"elements":[],"content":"first, a simple, plain Heading:","id":"5521c17e-6cbf-4fc6-b1fd-1f102bc39dfb","element":null,"type":"CmsText","attributes":{"text":"subtitle1"}},{"elements":[],"element":null,"attributes":{"h":"text-h4"},"type":"CmsHeading","id":"7067ec2d-9f44-4ec8-a43a-adbb53f10cb1","content":"simple heading with size h4"},{"content":"with color and background color:","element":null,"type":"CmsText","elements":[],"id":"91af6d0b-231b-47f2-a45d-92906ad4085d","attributes":{"text":"body1"}},{"attributes":{"background-color":"dark","h":"text-h6","color":"positive","bgColor":"accent"},"id":"26fd1cde-4bbe-40ff-92dd-255fa76dfa18","content":"new CmsHeading","type":"CmsHeading","element":null,"elements":[]},{"content":"and with borders:","element":null,"elements":[],"type":"CmsText","attributes":{"text":"body1"},"id":"61943494-7ccb-443c-8a47-929fff933620"},{"content":"new CmsHeading","elements":[],"attributes":{"h":"text-h6"},"id":"c3eb9b43-7a0b-4c05-9f25-18b7fa5a6e4e","type":"CmsHeading","element":null},{"attributes":{"text":"body1"},"content":"add margin:","type":"CmsText","element":null,"elements":[],"id":"1671fad4-0d78-4eb6-a6a6-c19268f1c7ad"},{"id":"2a67e0e2-d911-47af-89af-ab3185f1ed94","elements":[],"element":null,"content":"new CmsHeading","type":"CmsHeading","attributes":{"margin":"md","style":"border: 1px dotted blue","h":"text-h6"}},{"elements":[],"type":"CmsText","content":"or padding:","attributes":{"text":"body1"},"id":"3f882b0a-a6b1-4657-9403-4f44a97e1f6a","element":null},{"type":"CmsHeading","attributes":{"style":"border: 1px dotted blue","h":"text-h6","padding":"lg"},"element":null,"elements":[],"id":"b18fe893-2767-4274-8c5c-1c39071547a2","content":"new CmsHeading"},{"elements":[],"type":"CmsText","content":"setting the font:","id":"f42a7bce-a6c8-4c8d-badb-18a11d8c605d","element":null,"attributes":{"text":"body1"}},{"element":null,"type":"CmsHeading","content":"new CmsHeading","elements":[],"attributes":{"fontWeight":"text-weight-thin","h":"text-h6","fontFamily":"Montserrat, sans-serif;"},"id":"402a0ac0-07e8-4ca0-a309-e9a9547d2cd2"},{"attributes":{"text":"body1"},"id":"2ad4c316-6af3-409e-9a7b-57bfffdb2ed3","content":"aligned to the right","elements":[],"element":null,"type":"CmsText"},{"content":"new CmsHeading","type":"CmsHeading","element":null,"id":"b0b05e75-90c5-4abe-ad3d-b919fd865180","attributes":{"align":"text-center","h":"text-h6"},"elements":[]}],"id":"e2a94510-ac79-4d6b-a169-971d43d3500c","dirty":false,"version":2,"name":"index","published":1657696445706,"changed":1657696132726,"created":1657605947065}},"drafts":{"6a63a547-fe38-4640-8198-6f67146cc790":{"created":1658424018918,"elements":[{"id":"2a80ca88-5d01-486a-88c2-434c98166477","element":null,"content":"new CmsHeading","elements":[],"classes":{"h":"text-h2"},"attributes":{"width":"200","setWidth":true,"widthUnit":"px"},"type":"CmsHeading"}],"id":"6a63a547-fe38-4640-8198-6f67146cc790","version":4,"name":"test","changed":1658560513646},"e2a94510-ac79-4d6b-a169-971d43d3500c":{"elements":[{"content":"Headings Testcases","classes":{"h":"text-h2"},"type":"CmsHeading","id":"571f1907-0146-4bd9-9c12-af935e91f540","attributes":{"widthUnit":"%","height":"100","setWidth":false,"heightUnit":"px","width":"600","align":"text-left","setHeight":true}},{"element":null,"attributes":{},"id":"d4f681fd-3316-4bed-845d-7f0620f09c6e","elements":[],"content":"new undefined","classes":{}},{"element":null,"elements":[],"id":"5521c17e-6cbf-4fc6-b1fd-1f102bc39dfb","attributes":{"text":"subtitle2","heightUnit":"px","height":"50","setHeight":true},"type":"CmsText","classes":{},"content":"first, a simple, plain Heading:"},{"classes":{},"attributes":{},"content":"new undefined","elements":[],"element":null,"id":"8bea4187-b14e-48e9-9a7c-b46c75e7ea03"},{"type":"CmsHeading","content":"simple heading with size h4","elements":[],"id":"7067ec2d-9f44-4ec8-a43a-adbb53f10cb1","attributes":{"width":"","height":"80","heightUnit":"px","widthUnit":"px","setHeight":true},"element":null,"classes":{"h":"text-h4"}},{"elements":[],"attributes":{"height":"50","setHeight":true,"text":"subtitle1","heightUnit":"px"},"id":"91af6d0b-231b-47f2-a45d-92906ad4085d","type":"CmsText","classes":{},"content":"with color and background color:","element":null},{"element":null,"id":"26fd1cde-4bbe-40ff-92dd-255fa76dfa18","classes":{"h":"text-h6"},"attributes":{"bgColor":"accent","background-color":"dark","color":"positive"},"elements":[],"content":"new CmsHeading","type":"CmsHeading"},{"classes":{},"id":"61943494-7ccb-443c-8a47-929fff933620","element":null,"content":"and with borders:","attributes":{"text":"subtitle2"},"elements":[],"type":"CmsText"},{"elements":[],"attributes":{},"type":"CmsHeading","classes":{"h":"text-h6"},"id":"c3eb9b43-7a0b-4c05-9f25-18b7fa5a6e4e","element":null,"content":"heading with border at bottom"},{"id":"1671fad4-0d78-4eb6-a6a6-c19268f1c7ad","element":null,"attributes":{"text":"body1","setHeight":true,"height":"50","heightUnit":"px"},"content":"add margin:","elements":[],"classes":{},"type":"CmsText"},{"id":"2a67e0e2-d911-47af-89af-ab3185f1ed94","attributes":{"margin":"md","style":"border: 1px dotted blue","widthUnit":"px"},"elements":[],"element":null,"classes":{"h":"text-h6"},"content":"heading with margin","type":"CmsHeading"},{"element":null,"id":"3f882b0a-a6b1-4657-9403-4f44a97e1f6a","classes":{},"attributes":{"heightUnit":"px","text":"body1","height":"100","setHeight":true},"content":"or padding:","elements":[],"type":"CmsText"},{"attributes":{"style":"border: 1px dotted blue","padding":"lg"},"id":"b18fe893-2767-4274-8c5c-1c39071547a2","elements":[],"classes":{"h":"text-h6"},"element":null,"type":"CmsHeading","content":"heading with padding"},{"content":"setting the font:","id":"f42a7bce-a6c8-4c8d-badb-18a11d8c605d","elements":[],"attributes":{"f42a7bce-a6c8-4c8d-badb-18a11d8c605d":"heightUnit","setHeight":true,"2ad4c316-6af3-409e-9a7b-57bfffdb2ed3":"height","height":"60","heightUnit":"px","text":"body1"},"type":"CmsText","element":null,"classes":{}},{"id":"402a0ac0-07e8-4ca0-a309-e9a9547d2cd2","content":"new CmsHeading","element":null,"classes":{"h":"text-h6"},"elements":[],"attributes":{"fontFamily":"Montserrat, sans-serif;","fontWeight":"text-weight-thin"},"type":"CmsHeading"},{"attributes":{"heightUnit":"px","2ad4c316-6af3-409e-9a7b-57bfffdb2ed3":"height","setHeight":true,"text":"body1","height":"60"},"elements":[],"classes":{},"element":null,"type":"CmsText","content":"aligned to the middle","id":"2ad4c316-6af3-409e-9a7b-57bfffdb2ed3"},{"element":null,"id":"b0b05e75-90c5-4abe-ad3d-b919fd865180","attributes":{"align":"text-center"},"elements":[],"type":"CmsHeading","content":"new CmsHeading","classes":{"h":"text-h6"}}],"created":1657605947065,"version":4,"id":"e2a94510-ac79-4d6b-a169-971d43d3500c","dirty":false,"published":1657696445706,"name":"index","changed":1658902759228}},"flex":{"draft":{"padding":"md","direction":"column","margin":"md"},"original":{"direction":"column"}}}
+{
+  "name": "Headings Testcases",
+  "changed": 1657605946964,
+  "created": 1657605946964,
+  "livesite": null,
+  "exportVersion": 1,
+  "exported": 1659074465154,
+  "nav": {},
+  "pages": {
+    "undefined": {
+      "version": 1,
+      "created": 1658424018918,
+      "name": "test"
+    },
+    "e2a94510-ac79-4d6b-a169-971d43d3500c": {
+      "elements": [
+        {
+          "type": "CmsHeading",
+          "attributes": {
+            "h": "text-h2"
+          },
+          "content": "Headings Testcases",
+          "id": "571f1907-0146-4bd9-9c12-af935e91f540"
+        },
+        {
+          "attributes": {
+            "text": "subtitle1"
+          },
+          "id": "5521c17e-6cbf-4fc6-b1fd-1f102bc39dfb",
+          "content": "first, a simple, plain Heading:",
+          "elements": [],
+          "type": "CmsText",
+          "element": null
+        },
+        {
+          "attributes": {
+            "h": "text-h4"
+          },
+          "id": "7067ec2d-9f44-4ec8-a43a-adbb53f10cb1",
+          "content": "simple heading with size h4",
+          "elements": [],
+          "type": "CmsHeading",
+          "element": null
+        },
+        {
+          "id": "91af6d0b-231b-47f2-a45d-92906ad4085d",
+          "element": null,
+          "content": "with color and background color:",
+          "elements": [],
+          "attributes": {
+            "text": "body1"
+          },
+          "type": "CmsText"
+        },
+        {
+          "type": "CmsHeading",
+          "elements": [],
+          "content": "new CmsHeading",
+          "element": null,
+          "id": "26fd1cde-4bbe-40ff-92dd-255fa76dfa18",
+          "attributes": {
+            "color": "positive",
+            "h": "text-h6",
+            "bgColor": "accent",
+            "background-color": "dark"
+          }
+        },
+        {
+          "content": "and with borders:",
+          "attributes": {
+            "text": "body1"
+          },
+          "type": "CmsText",
+          "element": null,
+          "id": "61943494-7ccb-443c-8a47-929fff933620",
+          "elements": []
+        },
+        {
+          "elements": [],
+          "attributes": {
+            "h": "text-h6"
+          },
+          "type": "CmsHeading",
+          "id": "c3eb9b43-7a0b-4c05-9f25-18b7fa5a6e4e",
+          "element": null,
+          "content": "new CmsHeading"
+        },
+        {
+          "element": null,
+          "content": "add margin:",
+          "type": "CmsText",
+          "elements": [],
+          "attributes": {
+            "text": "body1"
+          },
+          "id": "1671fad4-0d78-4eb6-a6a6-c19268f1c7ad"
+        },
+        {
+          "content": "new CmsHeading",
+          "element": null,
+          "type": "CmsHeading",
+          "attributes": {
+            "style": "border: 1px dotted blue",
+            "h": "text-h6",
+            "margin": "md"
+          },
+          "id": "2a67e0e2-d911-47af-89af-ab3185f1ed94",
+          "elements": []
+        },
+        {
+          "elements": [],
+          "id": "3f882b0a-a6b1-4657-9403-4f44a97e1f6a",
+          "content": "or padding:",
+          "element": null,
+          "type": "CmsText",
+          "attributes": {
+            "text": "body1"
+          }
+        },
+        {
+          "attributes": {
+            "h": "text-h6",
+            "padding": "lg",
+            "style": "border: 1px dotted blue"
+          },
+          "content": "new CmsHeading",
+          "type": "CmsHeading",
+          "id": "b18fe893-2767-4274-8c5c-1c39071547a2",
+          "element": null,
+          "elements": []
+        },
+        {
+          "attributes": {
+            "text": "body1"
+          },
+          "id": "f42a7bce-a6c8-4c8d-badb-18a11d8c605d",
+          "content": "setting the font:",
+          "elements": [],
+          "type": "CmsText",
+          "element": null
+        },
+        {
+          "attributes": {
+            "fontWeight": "text-weight-thin",
+            "fontFamily": "Montserrat, sans-serif;",
+            "h": "text-h6"
+          },
+          "element": null,
+          "elements": [],
+          "type": "CmsHeading",
+          "content": "new CmsHeading",
+          "id": "402a0ac0-07e8-4ca0-a309-e9a9547d2cd2"
+        },
+        {
+          "content": "aligned to the right",
+          "type": "CmsText",
+          "element": null,
+          "id": "2ad4c316-6af3-409e-9a7b-57bfffdb2ed3",
+          "elements": [],
+          "attributes": {
+            "text": "body1"
+          }
+        },
+        {
+          "content": "new CmsHeading",
+          "element": null,
+          "id": "b0b05e75-90c5-4abe-ad3d-b919fd865180",
+          "attributes": {
+            "align": "text-center",
+            "h": "text-h6"
+          },
+          "type": "CmsHeading",
+          "elements": []
+        }
+      ],
+      "version": 2,
+      "changed": 1657696132726,
+      "dirty": false,
+      "name": "index",
+      "id": "e2a94510-ac79-4d6b-a169-971d43d3500c",
+      "created": 1657605947065,
+      "published": 1657696445706
+    }
+  },
+  "drafts": {
+    "6a63a547-fe38-4640-8198-6f67146cc790": {
+      "created": 1658424018918,
+      "name": "test",
+      "id": "6a63a547-fe38-4640-8198-6f67146cc790",
+      "changed": 1658560513646,
+      "version": 4,
+      "elements": [
+        {
+          "classes": {
+            "h": "text-h2"
+          },
+          "elements": [],
+          "element": null,
+          "type": "CmsHeading",
+          "content": "new CmsHeading",
+          "id": "2a80ca88-5d01-486a-88c2-434c98166477",
+          "attributes": {
+            "widthUnit": "px",
+            "width": "200",
+            "setWidth": true
+          }
+        }
+      ]
+    },
+    "e2a94510-ac79-4d6b-a169-971d43d3500c": {
+      "changed": 1658902759228,
+      "version": 4,
+      "name": "index",
+      "published": 1657696445706,
+      "created": 1657605947065,
+      "dirty": false,
+      "elements": [
+        {
+          "id": "571f1907-0146-4bd9-9c12-af935e91f540",
+          "type": "CmsHeading",
+          "attributes": {
+            "widthUnit": "%",
+            "width": "600",
+            "align": "text-left",
+            "setHeight": true,
+            "height": "100",
+            "heightUnit": "px",
+            "setWidth": false
+          },
+          "content": "Headings Testcases",
+          "classes": {
+            "h": "text-h2"
+          }
+        },
+        {
+          "classes": {},
+          "content": "new undefined",
+          "id": "d4f681fd-3316-4bed-845d-7f0620f09c6e",
+          "attributes": {},
+          "elements": [],
+          "element": null
+        },
+        {
+          "elements": [],
+          "content": "first, a simple, plain Heading:",
+          "type": "CmsText",
+          "classes": {},
+          "element": null,
+          "attributes": {
+            "height": "50",
+            "setHeight": true,
+            "text": "subtitle2",
+            "heightUnit": "px"
+          },
+          "id": "5521c17e-6cbf-4fc6-b1fd-1f102bc39dfb"
+        },
+        {
+          "attributes": {},
+          "id": "8bea4187-b14e-48e9-9a7c-b46c75e7ea03",
+          "element": null,
+          "content": "new undefined",
+          "elements": [],
+          "classes": {}
+        },
+        {
+          "elements": [],
+          "element": null,
+          "classes": {
+            "h": "text-h4"
+          },
+          "attributes": {
+            "heightUnit": "px",
+            "setHeight": true,
+            "height": "80",
+            "width": "",
+            "widthUnit": "px"
+          },
+          "type": "CmsHeading",
+          "content": "simple heading with size h4",
+          "id": "7067ec2d-9f44-4ec8-a43a-adbb53f10cb1"
+        },
+        {
+          "type": "CmsText",
+          "classes": {},
+          "element": null,
+          "id": "91af6d0b-231b-47f2-a45d-92906ad4085d",
+          "content": "with color and background color:",
+          "attributes": {
+            "heightUnit": "px",
+            "text": "subtitle1",
+            "height": "50",
+            "setHeight": true
+          },
+          "elements": []
+        },
+        {
+          "elements": [],
+          "id": "26fd1cde-4bbe-40ff-92dd-255fa76dfa18",
+          "type": "CmsHeading",
+          "element": null,
+          "classes": {
+            "h": "text-h6"
+          },
+          "attributes": {
+            "color": "positive",
+            "background-color": "dark",
+            "bgColor": "accent"
+          },
+          "content": "new CmsHeading"
+        },
+        {
+          "attributes": {
+            "text": "subtitle2"
+          },
+          "content": "and with borders:",
+          "type": "CmsText",
+          "element": null,
+          "elements": [],
+          "classes": {},
+          "id": "61943494-7ccb-443c-8a47-929fff933620"
+        },
+        {
+          "type": "CmsHeading",
+          "element": null,
+          "attributes": {},
+          "id": "c3eb9b43-7a0b-4c05-9f25-18b7fa5a6e4e",
+          "content": "heading with border at bottom",
+          "classes": {
+            "h": "text-h6"
+          },
+          "elements": []
+        },
+        {
+          "content": "add margin:",
+          "type": "CmsText",
+          "classes": {},
+          "attributes": {
+            "height": "50",
+            "setHeight": true,
+            "text": "body1",
+            "heightUnit": "px"
+          },
+          "element": null,
+          "id": "1671fad4-0d78-4eb6-a6a6-c19268f1c7ad",
+          "elements": []
+        },
+        {
+          "content": "heading with margin",
+          "classes": {
+            "h": "text-h6"
+          },
+          "attributes": {
+            "style": "border: 1px dotted blue",
+            "widthUnit": "px",
+            "margin": "md"
+          },
+          "id": "2a67e0e2-d911-47af-89af-ab3185f1ed94",
+          "element": null,
+          "type": "CmsHeading",
+          "elements": []
+        },
+        {
+          "element": null,
+          "type": "CmsText",
+          "elements": [],
+          "id": "3f882b0a-a6b1-4657-9403-4f44a97e1f6a",
+          "attributes": {
+            "setHeight": true,
+            "heightUnit": "px",
+            "text": "body1",
+            "height": "100"
+          },
+          "classes": {},
+          "content": "or padding:"
+        },
+        {
+          "elements": [],
+          "type": "CmsHeading",
+          "attributes": {
+            "style": "border: 1px dotted blue",
+            "padding": "lg"
+          },
+          "classes": {
+            "h": "text-h6"
+          },
+          "element": null,
+          "content": "heading with padding",
+          "id": "b18fe893-2767-4274-8c5c-1c39071547a2"
+        },
+        {
+          "type": "CmsText",
+          "id": "f42a7bce-a6c8-4c8d-badb-18a11d8c605d",
+          "elements": [],
+          "element": null,
+          "attributes": {
+            "f42a7bce-a6c8-4c8d-badb-18a11d8c605d": "heightUnit",
+            "2ad4c316-6af3-409e-9a7b-57bfffdb2ed3": "height",
+            "setHeight": true,
+            "text": "body1",
+            "heightUnit": "px",
+            "height": "60"
+          },
+          "content": "setting the font:",
+          "classes": {}
+        },
+        {
+          "classes": {
+            "h": "text-h6"
+          },
+          "elements": [],
+          "type": "CmsHeading",
+          "element": null,
+          "content": "new CmsHeading",
+          "attributes": {
+            "fontFamily": "Montserrat, sans-serif;",
+            "fontWeight": "text-weight-thin"
+          },
+          "id": "402a0ac0-07e8-4ca0-a309-e9a9547d2cd2"
+        },
+        {
+          "attributes": {
+            "height": "60",
+            "setHeight": true,
+            "heightUnit": "px",
+            "text": "body1",
+            "2ad4c316-6af3-409e-9a7b-57bfffdb2ed3": "height"
+          },
+          "type": "CmsText",
+          "elements": [],
+          "id": "2ad4c316-6af3-409e-9a7b-57bfffdb2ed3",
+          "classes": {},
+          "content": "aligned to the middle",
+          "element": null
+        },
+        {
+          "classes": {
+            "h": "text-h6"
+          },
+          "content": "new CmsHeading",
+          "element": null,
+          "type": "CmsHeading",
+          "attributes": {
+            "align": "text-center"
+          },
+          "elements": [],
+          "id": "b0b05e75-90c5-4abe-ad3d-b919fd865180"
+        }
+      ],
+      "id": "e2a94510-ac79-4d6b-a169-971d43d3500c"
+    }
+  },
+  "flex": {
+    "draft": {
+      "padding": "md",
+      "margin": "md",
+      "direction": "column"
+    },
+    "original": {
+      "direction": "column"
+    }
+  }
+}
