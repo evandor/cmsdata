@@ -28,7 +28,7 @@
       "version": 4
     },
     "e2a94510-ac79-4d6b-a169-971d43d3500c": {
-      "changed": 1659075722708,
+      "changed": 1659161716469,
       "created": 1657605947065,
       "dirty": false,
       "elements": [
@@ -283,7 +283,7 @@
           "classes": {
             "h": "text-h6"
           },
-          "content": "new CmsHeading",
+          "content": "Heading aligned in the middle",
           "element": null,
           "elements": [
           ],
@@ -297,8 +297,6 @@
       "version": 5
     }
   },
-  "exportVersion": 1,
-  "exported": 1659161015293,
   "flex": {
     "draft": {
       "direction": "column",
