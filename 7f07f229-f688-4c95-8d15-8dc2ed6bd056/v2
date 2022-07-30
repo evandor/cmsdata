@@ -2,49 +2,21 @@
   "changed": 1657605946964,
   "created": 1657605946964,
   "drafts": {
-    "6a63a547-fe38-4640-8198-6f67146cc790": {
-      "changed": 1658560513646,
-      "created": 1658424018918,
-      "elements": [
-        {
-          "attributes": {
-            "setWidth": true,
-            "width": "200",
-            "widthUnit": "px"
-          },
-          "classes": {
-            "h": "text-h2"
-          },
-          "content": "new CmsHeading",
-          "element": null,
-          "elements": [
-          ],
-          "id": "2a80ca88-5d01-486a-88c2-434c98166477",
-          "type": "CmsHeading"
-        }
-      ],
-      "id": "6a63a547-fe38-4640-8198-6f67146cc790",
-      "name": "test",
-      "version": 4
-    }
   },
   "flex": {
-    "draft": {
+    "original": {
       "direction": "column",
       "margin": "md",
       "padding": "md"
-    },
-    "original": {
-      "direction": "column"
     }
   },
-  "livesite": null,
+  "livesite": "http://localhost:8082/7f07f229-f688-4c95-8d15-8dc2ed6bd056",
   "name": "Headings Testcases",
   "nav": {
   },
   "pages": {
     "e2a94510-ac79-4d6b-a169-971d43d3500c": {
-      "changed": 1659167253658,
+      "changed": 1659167294834,
       "created": 1657605947065,
       "dirty": false,
       "elements": [
@@ -308,6 +280,10 @@
         },
         {
           "attributes": {
+            "dde2dcdc-31e9-447f-be9c-0add169681b8": "heightUnit",
+            "height": "50",
+            "heightUnit": "px",
+            "setHeight": true,
             "text": "body1"
           },
           "classes": {
@@ -323,7 +299,7 @@
           "attributes": {
           },
           "classes": {
-            "h": "text-h2"
+            "h": "text-h6"
           },
           "content": "καλι μερα",
           "element": null,
@@ -335,13 +311,8 @@
       ],
       "id": "e2a94510-ac79-4d6b-a169-971d43d3500c",
       "name": "index",
-      "published": 1659167258416,
-      "version": 5
-    },
-    "undefined": {
-      "created": 1658424018918,
-      "name": "test",
-      "version": 1
+      "published": 1659167333522,
+      "version": 6
     }
   }
 }
