@@ -3,7 +3,7 @@
   "created": 1657605946964,
   "drafts": {
     "e2a94510-ac79-4d6b-a169-971d43d3500c": {
-      "changed": 1659332621370,
+      "changed": 1659332885787,
       "created": 1657605947065,
       "dirty": false,
       "elements": [
@@ -297,19 +297,6 @@
         },
         {
           "attributes": {
-            "text": "body1"
-          },
-          "classes": {
-          },
-          "content": "new CmsText",
-          "element": null,
-          "elements": [
-          ],
-          "id": "ddda6e7e-876b-4273-af98-0ed0d1927f80",
-          "type": "CmsText"
-        },
-        {
-          "attributes": {
           },
           "classes": {
           },
@@ -321,25 +308,12 @@
               },
               "classes": {
               },
-              "content": "new CmsSection",
+              "content": "",
               "element": null,
               "elements": [
-                {
-                  "attributes": {
-                    "text": "body1"
-                  },
-                  "classes": {
-                  },
-                  "content": "new CmsText",
-                  "element": null,
-                  "elements": [
-                  ],
-                  "id": "98699c50-d5a4-4a06-8835-8c2c86c9300d",
-                  "type": "CmsText"
-                }
               ],
-              "id": "b9bfa85a-2e63-4878-a97b-9c57557a7280",
-              "type": "CmsSection"
+              "id": "e1eb52e3-8bb6-4406-aa3f-fe5269f67202",
+              "type": "CmsDroptarget"
             },
             {
               "attributes": {
@@ -350,11 +324,11 @@
               "element": null,
               "elements": [
               ],
-              "id": "6a8c4f4d-c9c2-4752-93b3-d34099e26616",
+              "id": "e269d7bd-d410-4d34-8b1d-7bb9569589b6",
               "type": "CmsDroptarget"
             }
           ],
-          "id": "1d96dada-4b3d-454e-bda2-66cf712f62c5",
+          "id": "b6a7aa75-49b0-4e31-ac4a-884add8fa65a",
           "type": "CmsSimpleList"
         }
       ],
