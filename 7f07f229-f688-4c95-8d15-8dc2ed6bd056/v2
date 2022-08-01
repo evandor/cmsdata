@@ -321,12 +321,25 @@
               },
               "classes": {
               },
-              "content": "",
+              "content": "new CmsSection",
               "element": null,
               "elements": [
+                {
+                  "attributes": {
+                    "text": "body1"
+                  },
+                  "classes": {
+                  },
+                  "content": "new CmsText",
+                  "element": null,
+                  "elements": [
+                  ],
+                  "id": "98699c50-d5a4-4a06-8835-8c2c86c9300d",
+                  "type": "CmsText"
+                }
               ],
-              "id": "7ace6d3f-40c3-4ee9-9d20-5b1b490239c2",
-              "type": "CmsDroptarget"
+              "id": "b9bfa85a-2e63-4878-a97b-9c57557a7280",
+              "type": "CmsSection"
             },
             {
               "attributes": {
